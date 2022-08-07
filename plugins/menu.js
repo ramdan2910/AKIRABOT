@@ -38,16 +38,18 @@ const defaultMenu = {
 ❂═══❖•ೋ•:･ﾟ✧:･ﾟ✧
 ╟ꂑ 𝐻𝑎𝑖, %ucapan %name! 👋
 ┗━━━•❅•°•❈
+
+
 ╔╦══• •✠•❀彡★
-╟⌛*𝐖𝐀𝐊𝐓𝐔:* 
-╟🕐%wib WIB
-╟🕔%wita WITA
-╟🕒%wit WIT
-╟🌄*𝐇𝐚𝐫𝐢:* %week
-╟📅*𝐓𝐚𝐧𝐠𝐠𝐚𝐥:* %date
-╟🕔*𝐔𝐩𝐭𝐢𝐦𝐞:* %uptime (%muptime)
-╟👨‍👨‍👧‍👧*AKIRABOT GRUP:*
-╟https://chat.whatsapp.com/HMzGLe9mcFUGNyuXudRikq
+╟⌛   𝐖𝐀𝐊𝐓𝐔: 
+╟🕐   %wib WIB
+╟🕔   %wita WITA
+╟🕒   %wit WIT
+╟🌄   𝐇𝐚𝐫𝐢: %week
+╟📅   𝐓𝐚𝐧𝐠𝐠𝐚𝐥: %date
+╟🕔   𝐔𝐩𝐭𝐢𝐦𝐞: %uptime (%muptime)
+╟👨‍👧‍👧   AKIRABOT GRUP:
+╟      https://chat.whatsapp.com/HMzGLe9mcFUGNyuXudRikq
 ╚»★★ミ✧･ﾟ: ✧ﾟ･:
 
 
